@@ -1,0 +1,16 @@
+{
+  "item.forintmod.forint5": "5 Forint",
+  "item.forintmod.forint10": "10 Forint",
+  "item.forintmod.forint20": "20 Forint",
+  "item.forintmod.forint50": "50 Forint",
+  "item.forintmod.forint100": "100 Forint",
+  "item.forintmod.forint200": "200 Forint",
+  "item.forintmod.forint500": "500 Forint",
+  "item.forintmod.forint1000": "1000 Forint",
+  "item.forintmod.forint2000": "2000 Forint",
+  "item.forintmod.forint5000": "5000 Forint",
+  "item.forintmod.forint10000": "10000 Forint",
+  "item.forintmod.forint20000": "20000 Forint",
+
+  "creativetab.forints_tab": "Forintok"
+}
