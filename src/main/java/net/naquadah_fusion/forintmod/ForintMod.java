@@ -32,7 +32,7 @@ public class ForintMod {
         modEventBus.addListener(this::commonSetup);
 
         MinecraftForge.EVENT_BUS.register(this);
-        modEventBus.addListener(this::addCreative);
+        //modEventBus.addListener(this::addCreative);  csak akkor kell ha külön csoportot szeretnék
     }
 
     private void commonSetup(final FMLCommonSetupEvent event) {
