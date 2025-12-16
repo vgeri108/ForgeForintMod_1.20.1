@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "forint",
+  "key": {
+    "x": {
+      "item": "minecraft:iron_nugget"
+    },
+    ".": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "x.x",
+    ".x.",
+    "x.x"
+  ],
+  "result": {
+    "count": 1,
+    "item": "forintmod:forint50"
+  },
+  "show_notification": true
+}

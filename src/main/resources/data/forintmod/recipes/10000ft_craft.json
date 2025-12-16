@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "forint",
+  "key": {
+    "0": {
+      "item": "minecraft:emerald"
+    },
+    "#": {
+      "item": "minecraft:paper"
+    },
+    "x": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "pattern": [
+    " x ",
+    "x#0",
+    " 0 "
+  ],
+  "result": {
+    "count": 1,
+    "item": "forintmod:forint10000"
+  },
+  "show_notification": true
+}

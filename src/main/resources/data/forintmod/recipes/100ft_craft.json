@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "forint",
+  "key": {
+    "x": {
+      "item": "minecraft:gold_ingot"
+    },
+    ".": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    ".x.",
+    "xxx",
+    ".x."
+  ],
+  "result": {
+    "count": 1,
+    "item": "forintmod:forint100"
+  },
+  "show_notification": true
+}

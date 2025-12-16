@@ -1,6 +1,7 @@
 package net.naquadah_fusion.forintmod;
 
 import com.mojang.logging.LogUtils;
+import net.naquadah_fusion.forintmod.block.ModBlocks;
 import net.naquadah_fusion.forintmod.item.ModCreativeModTabs;
 import net.naquadah_fusion.forintmod.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -28,6 +29,7 @@ public class ForintMod {
         ModCreativeModTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
