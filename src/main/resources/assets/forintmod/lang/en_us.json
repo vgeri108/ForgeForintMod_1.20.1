@@ -12,5 +12,8 @@
   "item.forintmod.forint10000": "10000 Forints",
   "item.forintmod.forint20000": "20000 Forints",
 
+  "block.tutorialmod.sapphire_block": "Block of Sapphire",
+  "block.tutorialmod.raw_sapphire_block": "Block of Raw Sapphire",
+
   "creativetab.forints_tab": "Forints"
 }
