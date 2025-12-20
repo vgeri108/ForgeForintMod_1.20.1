@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_items",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/abandoned_mineshaft"
+    }
+  ],
+  "items": [
+    { "item": "forintmod:forint5", "weight": 5 },
+    { "item": "forintmod:forint10", "weight": 1 },
+    { "item": "forintmod:forint100", "weight": 1 }
+  ]
+}

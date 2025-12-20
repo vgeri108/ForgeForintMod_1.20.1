@@ -17,6 +17,8 @@ public class ModCreativeModTabs {
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.Forint100.get()))
                     .title(Component.translatable("creativetab.forints_tab"))
                     .displayItems((pParameters, pOutput) -> {
+                        pOutput.accept(ModItems.Forint1.get());
+                        pOutput.accept(ModItems.Forint2.get());
                         pOutput.accept(ModItems.Forint5.get());
                         pOutput.accept(ModItems.Forint10.get());
                         pOutput.accept(ModItems.Forint20.get());
@@ -29,6 +31,13 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.Forint5000.get());
                         pOutput.accept(ModItems.Forint10000.get());
                         pOutput.accept(ModItems.Forint20000.get());
+                        pOutput.accept(ModItems.Forint5F.get());
+                        pOutput.accept(ModItems.Forint5O.get());
+                        pOutput.accept(ModItems.Forint5R.get());
+                        pOutput.accept(ModItems.Forint5I.get());
+                        pOutput.accept(ModItems.Forint5N.get());
+                        pOutput.accept(ModItems.Forint5T.get());
+                        pOutput.accept(ModItems.Forint200Old.get());
                     })
                     .build());
 

@@ -43,18 +43,7 @@ public class ForintMod {
 
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
-            event.accept(ModItems.Forint5);
-            event.accept(ModItems.Forint10);
-            event.accept(ModItems.Forint20);
-            event.accept(ModItems.Forint50);
-            event.accept(ModItems.Forint100);
-            event.accept(ModItems.Forint200);
-            event.accept(ModItems.Forint500);
-            event.accept(ModItems.Forint1000);
-            event.accept(ModItems.Forint2000);
-            event.accept(ModItems.Forint5000);
-            event.accept(ModItems.Forint10000);
-            event.accept(ModItems.Forint20000);
+            //event.accept(ModItems.Forint5);
         }
     }
 
