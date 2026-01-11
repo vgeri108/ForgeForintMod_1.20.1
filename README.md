@@ -3,7 +3,7 @@
 Ez a mod a magyar fizetőeszközt, a forintot adja hozzá a minecrafthoz.
 
 ## Letöltés
-A mod .jar file [innen](Downloads/forintmod-0.1-1.20.1.jar) tölthető le.
+A mod .jar file [innen](Downloads/forintmod-0.3-1.20.1.jar) tölthető le.
 
 ## Következő frissítés
 Pénz blokkok.
