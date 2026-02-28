@@ -17,6 +17,7 @@ import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
 
+@SuppressWarnings("removal") //1.21-es depratad warning feleslege 1.20.1-re
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(ForintMod.MOD_ID)
 public class ForintMod {
