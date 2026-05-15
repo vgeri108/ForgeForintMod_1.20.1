@@ -2,12 +2,12 @@
   "item.forintmod.forint1": "1 Forints",
   "item.forintmod.forint2": "2 Forints",
   "item.forintmod.forint5": "5 Forints",
-  "item.forintmod.forint5F": "5 Forint",
-  "item.forintmod.forint5O": "5 Forint",
-  "item.forintmod.forint5R": "5 Forint",
-  "item.forintmod.forint5I": "5 Forint",
-  "item.forintmod.forint5N": "5 Forint",
-  "item.forintmod.forint5T": "5 Forint",
+  "item.forintmod.forint5F": "5 Forint with F on the back",
+  "item.forintmod.forint5O": "5 Forint with O on the back",
+  "item.forintmod.forint5R": "5 Forint with R on the back",
+  "item.forintmod.forint5I": "5 Forint with I on the back",
+  "item.forintmod.forint5N": "5 Forint with N on the back",
+  "item.forintmod.forint5T": "5 Forint with T on the back",
   "item.forintmod.forint10": "10 Forints",
   "item.forintmod.forint20": "20 Forints",
   "item.forintmod.forint50": "50 Forints",
@@ -20,9 +20,6 @@
   "item.forintmod.forint5000": "5000 Forints",
   "item.forintmod.forint10000": "10000 Forints",
   "item.forintmod.forint20000": "20000 Forints",
-
-  "block.tutorialmod.sapphire_block": "Block of Sapphire",
-  "block.tutorialmod.raw_sapphire_block": "Block of Raw Sapphire",
-
-  "creativetab.forints_tab": "Forints"
+  "creativetab.forints_tab": "Forints",
+  "mod.forintmod.description": "This mod adds Forints to the game."
 }
